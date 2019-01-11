@@ -1,0 +1,6 @@
+# C++
+/server/*.o
+/server/*.ko
+/server/Module.symvers
+/server/*.cmd
+/server/modules.order
