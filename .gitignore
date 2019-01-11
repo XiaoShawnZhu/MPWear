@@ -5,6 +5,7 @@
 /server/*.cmd
 /server/modules.order
 /server/mpwear_proxy
+/server/.tmp_versions
 
 # Android Studio
 *.iml
